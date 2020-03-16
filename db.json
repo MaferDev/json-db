@@ -29,7 +29,7 @@
             "professor": "Luis Leguia"    
         }
     ],
-    "SistemasQA": [
+    "Sistemas": [
         {
             "numero": "007",
             "nombre": "SISTEMA DE BIOPSIA",
@@ -54,5 +54,31 @@
             "clave": "CONSULTORIO20$",
             "url": "#"
         }          
-    ]     
+    ],
+    "ListSistemas": [
+        {
+            "numero": "007",
+            "nombre": "SISTEMA DE BIOPSIA",
+            "descripcion": "Gestionar y auditar los exámenes de Biopsia.",
+            "icono": "../../assets/images/test/icon0007.png",
+            "clave": "BIOP20$",
+            "url": "https://200.121.226.148:85/"
+        },
+        {
+            "numero": "008",
+            "nombre": "FACTURACIÓN AUTOMATICA",
+            "descripcion": "Gestionar los inputs para la facturación automática.",
+            "icono": "../../assets/images/test/icon0008.png",
+            "clave": "FACT20$",
+            "url": "http://intranet.suizalab.com:83/"
+        },
+        {
+            "numero": "009",
+            "nombre": "SISTEMA DE CONSULTORIOS",
+            "descripcion": "Atender a los pacientes de costo paciente mes.",
+            "icono": "../../assets/images/test/icon0009.png",
+            "clave": "CONSULTORIO20$",
+            "url": "#"
+        }          
+    ] 
 }
